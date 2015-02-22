@@ -9,6 +9,7 @@ Its has the following features:
   ->Delete data  
 3) Works with pagination   
 4) Has default searching and sorting functionality from tablesorter  
+5) Compatible with IE8 and onwards
 
 #Dependencies:  
 It uses the following plugins:  
