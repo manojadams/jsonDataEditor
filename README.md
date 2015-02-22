@@ -16,9 +16,5 @@ Its has the following features:
 #Dependencies:  
 It uses the following plugins:  
 1) Bootstrap  
-  ->bootstrap.js  
-  ->bootstrap.css  
 2) Tablesorter 2.0   
-  ->tablesorter.min.js  
-  ->tablesorter.widget.js  
-  
+
