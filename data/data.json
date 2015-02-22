@@ -1,0 +1,79 @@
+//Dummy json data for use
+
+var data = {
+	settings :{
+		rows : '3',					//no. of rows in a page
+		id : 'data-wrapper',		//id of the table where data has to be displayed
+		debug : 'false'				//for code debugging
+	},
+	cols: {
+		0 : 'Breed Name',
+		1 : 'Breed Type',
+		2 : 'Breed Cross',
+		3 : 'Edit',			//do not delete
+		4 : 'Delete'		//do not delete
+	},
+	data : [
+		{
+			0:	'Mohsin',
+			1:	['K','L','M'],			//only the first value e.g. "K" will be shown in the table, so keep your selected values in the first column -------------------shouldn't contain duplicates----------
+			2:	'L'
+		},
+		{
+			0:	'Sohsin',
+			1:	'J',
+			2:	'T'
+		},
+		{
+			0:	'Lohsin',
+			1:	'M',
+			2:	'N'
+		}
+		,
+		{
+			0:	'kohsin',
+			1:	'K',
+			2:	'L'
+		},
+		{
+			0:	'Ran',
+			1:	'J',
+			2:	'T'
+		},
+		{
+			0:	'Lahson',
+			1:	'M',
+			2:	'N'
+		},
+		{
+			0:	'Michael',
+			1:	'K',
+			2:	'L'
+		},
+		{
+			0:	'Jony',
+			1:	'J',
+			2:	'T'
+		},
+		{
+			0:	'Bree',
+			1:	'M',
+			2:	'N'
+		},
+		{
+			0:	'Hussain',
+			1:	'K',
+			2:	'L'
+		},
+		{
+			0:	'luckme',
+			1:	'J',
+			2:	'T'
+		},
+		{
+			0:	'Jande',
+			1:	'M',
+			2:	'N'
+		}
+	]
+}
